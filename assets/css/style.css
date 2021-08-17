@@ -1,0 +1,27 @@
+.navbar-brand{
+    font-family: 'Lobster', sans-serif;
+    font-size: 2.5rem;
+}
+.nav-item, header{
+    font-family: 'Cabin', sans-serif;
+}
+
+header{
+    color: #373A3C;
+}
+
+header h2{
+    font-size: 3rem;
+}
+
+hr{
+    border-top: .2rem solid#373A3C;
+}
+
+.carousel-indicators li{
+    background-color: #373A3C;
+    color: #373A3C;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+}
